@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer | Spring Boot | Angular | Microservices</h3>
  
 <p align="center">
-https://www.linkedin.com/in/atul-pawar28" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Atul%20Pawar-blue?style=flat-square&logo=linkedin"></a>
+https://www.linkedin.com/in/atul-pawar28"><img src="https://img.shields.io/badge/LinkedIn-Atul%20Pawar-blue?style=flat-square&logo=linkedin"></a>
 </p>
  
 ---
